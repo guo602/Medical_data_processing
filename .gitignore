@@ -1,4 +1,5 @@
 *.txt
 *.pdf
 __init__.py
+.DS_store
 
