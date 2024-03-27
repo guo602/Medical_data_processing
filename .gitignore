@@ -2,4 +2,6 @@
 *.pdf
 __init__.py
 .DS_store
+*.csv
+*.xlsx
 
